@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Platformer.cs">
+    <Files>
+      <File FileName="Assets\Scripts\SmoothCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Platformer.cs" Line="162" Column="58" />
+      <File FileName="Assets\Scripts\CheckManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Checkpoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuHover.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuButtons.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy1.cs" Line="18" Column="65" />
+      <File FileName="Assets\Scripts\EnemyRespawn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Coins.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Key.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bounce.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Lock.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelLoader.cs" Line="4" Column="1" />
+      <File FileName="Assets\Scripts\LevelEndCutscene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Lights.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameEnd.cs" Line="4" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

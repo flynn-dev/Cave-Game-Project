@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: a94c6e3b9fcf49f4aa364693241ff71b
+timeCreated: 1605632937
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: good_sword:group
+    100002: good_sword:group1
+    100004: good_sword:group10
+    100006: good_sword:group2
+    100008: good_sword:group3
+    100010: good_sword:group4
+    100012: good_sword:group5
+    100014: good_sword:group6
+    100016: good_sword:group7
+    100018: good_sword:group8
+    100020: good_sword:group9
+    100022: good_sword:left
+    100024: good_sword:pasted__group1
+    100026: good_sword:pasted__group1 1
+    100028: good_sword:pasted__group2
+    100030: good_sword:pasted__group4
+    100032: good_sword:pasted__group7
+    100034: good_sword:pasted__pasted__group2
+    100036: good_sword:pasted__pasted__pCube1
+    100038: good_sword:pasted__pasted__pCube3
+    100040: good_sword:pasted__pCube1
+    100042: good_sword:pasted__pCube3
+    100044: good_sword:pasted__pCube3 1
+    100046: good_sword:pasted__pCube4
+    100048: good_sword:pasted__pCube5
+    100050: good_sword:pasted__pCube5 1
+    100052: good_sword:pCube2
+    100054: good_sword:pCube3
+    100056: good_sword:pCube4
+    100058: good_sword:pCube5
+    100060: good_sword:pCylinder1
+    100062: good_sword:transform1
+    100064: good_sword:transform10
+    100066: good_sword:transform11
+    100068: good_sword:transform12
+    100070: good_sword:transform2
+    100072: good_sword:transform3
+    100074: good_sword:transform4
+    100076: good_sword:transform5
+    100078: good_sword:transform6
+    100080: good_sword:transform7
+    100082: good_sword:transform8
+    100084: good_sword:transform9
+    100086: group
+    100088: group1
+    100090: pasted__pSphere5
+    100092: pasted__pSphere6
+    100094: pCube1
+    100096: pCube2
+    100098: pCube4
+    100100: pCube5
+    100102: pCube6
+    100104: pSphere1
+    100106: pSphere3
+    100108: pSphere4
+    100110: pSphere5
+    100112: pSphere6
+    100114: transform1
+    100116: transform2
+    100118: transform3
+    100120: transform4
+    100122: transform5
+    100124: transform6
+    100126: transform7
+    100128: //RootNode
+    400000: good_sword:group
+    400002: good_sword:group1
+    400004: good_sword:group10
+    400006: good_sword:group2
+    400008: good_sword:group3
+    400010: good_sword:group4
+    400012: good_sword:group5
+    400014: good_sword:group6
+    400016: good_sword:group7
+    400018: good_sword:group8
+    400020: good_sword:group9
+    400022: good_sword:left
+    400024: good_sword:pasted__group1
+    400026: good_sword:pasted__group1 1
+    400028: good_sword:pasted__group2
+    400030: good_sword:pasted__group4
+    400032: good_sword:pasted__group7
+    400034: good_sword:pasted__pasted__group2
+    400036: good_sword:pasted__pasted__pCube1
+    400038: good_sword:pasted__pasted__pCube3
+    400040: good_sword:pasted__pCube1
+    400042: good_sword:pasted__pCube3
+    400044: good_sword:pasted__pCube3 1
+    400046: good_sword:pasted__pCube4
+    400048: good_sword:pasted__pCube5
+    400050: good_sword:pasted__pCube5 1
+    400052: good_sword:pCube2
+    400054: good_sword:pCube3
+    400056: good_sword:pCube4
+    400058: good_sword:pCube5
+    400060: good_sword:pCylinder1
+    400062: good_sword:transform1
+    400064: good_sword:transform10
+    400066: good_sword:transform11
+    400068: good_sword:transform12
+    400070: good_sword:transform2
+    400072: good_sword:transform3
+    400074: good_sword:transform4
+    400076: good_sword:transform5
+    400078: good_sword:transform6
+    400080: good_sword:transform7
+    400082: good_sword:transform8
+    400084: good_sword:transform9
+    400086: group
+    400088: group1
+    400090: pasted__pSphere5
+    400092: pasted__pSphere6
+    400094: pCube1
+    400096: pCube2
+    400098: pCube4
+    400100: pCube5
+    400102: pCube6
+    400104: pSphere1
+    400106: pSphere3
+    400108: pSphere4
+    400110: pSphere5
+    400112: pSphere6
+    400114: transform1
+    400116: transform2
+    400118: transform3
+    400120: transform4
+    400122: transform5
+    400124: transform6
+    400126: transform7
+    400128: //RootNode
+    2000000: good_sword:left
+    2100000: blinn10
+    2100002: blinn12
+    2100004: blinn5
+    2100006: blinn3
+    2100008: blinn4
+    2100010: blinn9
+    2100012: good_sword_blinn8
+    2100014: good_sword_blinn5
+    2100016: good_sword_blinn7
+    2100018: good_sword_blinn6
+    2100020: blinn13
+    2100022: blinn14
+    2300000: good_sword:pasted__pCube5
+    2300002: pasted__pSphere5
+    2300004: pasted__pSphere6
+    2300006: pCube6
+    2300008: pSphere5
+    2300010: pSphere6
+    3300000: good_sword:pasted__pCube5
+    3300002: pasted__pSphere5
+    3300004: pasted__pSphere6
+    3300006: pCube6
+    3300008: pSphere5
+    3300010: pSphere6
+    4300000: pCube6
+    4300002: good_sword:pasted__pCube5
+    4300004: pSphere5
+    4300006: pasted__pSphere5
+    4300008: pSphere6
+    4300010: pasted__pSphere6
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
